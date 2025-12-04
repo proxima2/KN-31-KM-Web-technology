@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Головна</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Лабораторна №5 — Express.js</h1>
+
+  <a class="btn" href="/time">Поточний час</a>
+  <a class="btn" href="/time/json">Час у JSON</a>
+
+  <h2>Передати свою дату і час</h2>
+  <form action="/settime" method="POST">
+    <input type="datetime-local" name="usertime" required>
+    <button type="submit">Надіслати</button>
+  </form>
+</body>
+
+</html>

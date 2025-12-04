@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+}
