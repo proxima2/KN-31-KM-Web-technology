@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "My Portfolio",
+    "description": "Personal website",
+    "techStack": "HTML, CSS, JS",
+    "link": "https://example.com"
+  }
+]
