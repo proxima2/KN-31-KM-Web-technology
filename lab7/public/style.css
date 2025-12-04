@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.student {
+  padding: 10px;
+  border: 1px solid #aaa;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-left: 10px;
+}
